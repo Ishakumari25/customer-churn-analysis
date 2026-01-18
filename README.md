@@ -33,9 +33,9 @@ This project analyzes customer data to identify churn patterns.
 - Churn is higher for month-to-month customers
 - Logistic Regression gives good accuracy
 
-## 📌 Conclusion
+##  Conclusion
 Customer retention can be improved by targeting high-risk users.
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Use Random Forest / XGBoost
 - Deploy model using Flask or Streamlit
