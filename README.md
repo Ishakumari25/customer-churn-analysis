@@ -1,20 +1,20 @@
 # Customer Churn Analysis
 
-## 📌 Problem Statement
+##  Problem Statement
 Customer churn occurs when customers stop using a service.
 This project analyzes customer data to identify churn patterns.
 
-## 🎯 Objective
+##  Objective
 - Understand customer behavior
 - Identify factors affecting churn
 - Predict customer churn using ML
 
-## 📊 Dataset
+##  Dataset
 - Source: Kaggle (Telco Customer Churn)
 - Type: CSV file
 - Data includes customer details and churn status
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Python
 - Pandas
 - NumPy
@@ -22,14 +22,14 @@ This project analyzes customer data to identify churn patterns.
 - Seaborn
 - Scikit-learn
 
-## 🔍 Steps Followed
+##  Steps Followed
 1. Data Cleaning
 2. Exploratory Data Analysis (EDA)
 3. Feature Engineering
 4. Model Building
 5. Model Evaluation
 
-## 📈 Results
+##  Results
 - Churn is higher for month-to-month customers
 - Logistic Regression gives good accuracy
 
